@@ -1,4 +1,4 @@
-{
+export const abi ={
   "_format": "hh-sol-artifact-1",
   "contractName": "CryptoDevs",
   "sourceName": "contracts/CryptoDevs.sol",
