@@ -12,4 +12,7 @@ module.exports = {
       accounts: [PRIVATE_KEY],
     },
   },
+  etherscan: {
+    apiKey: process.env.POLYGONSCAN_API_KEY,
+ }
 };
