@@ -14,3 +14,5 @@ npx hardhat run scripts/deploy.js
 
 // 0xA0Ad3D1AC08ABa2967c45EF5E13437dD9e46349C whitelist contract deployed here
  0xdeD0c430415cB8492373b4e3420f650eE696e2a1 nft contract deployed here
+ //https://crypto-devs-dapp.vercel.app/ domain 
+ // 0xBf82dB19D08922362Bf24B660ba1DA4f6B5991F5 new nft contract address
